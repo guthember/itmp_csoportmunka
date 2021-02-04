@@ -1,0 +1,66 @@
+<h2>Szárítás</h2>
+<p>Lassan és nagyon óvatosan kell szárítani, repedésre, vetemedésre hajlamos.</p>
+
+<h2>Megmunkálás</h2>
+<p>Minden szerszámmal jól és könnyen megmunkálható, jól késelhető, hámozható. Jól gőzölhető, ettől színe vörösesbarnára változik, használat közbeni stabilitása javul. Gőzölve jól hajlítható.</p>
+
+<h2>Rögzítés</h2>
+<p>Jól szegelhető, csavarozható, de repedékenysége miatt előfúrás ajánlatos. Jól ragasztható.</p>
+
+<h2>Felületkezelés</h2>
+<p>Jól pácolható, előkezelés nélkül is jól lakkozható. Fény hatására idővel sárgul.</p>
+<h2>Tartósság</h2>
+<p>Hajlamos a fülledésre, nem időjárásálló, nem tartós, rovarok is gyakran károsítják.
+Nagyon sokoldalúan használható faanyag. Bútor-, épület- és szerkezeti fának, bánya- és talpfának, farost- és rétegelt lemez készítésére, papír- és faszéngyártásra alkalmas. Kiváló tűzifa.</p>
+
+
+
+
+<table>
+<tr>
+	<td>Rönkhossz</td>
+	<td>10…20 m</td>
+</tr>
+<tr>
+	<td>Rönkátmérő</td>
+	<td>	0,9…1,5 m</td>
+</tr>
+<tr>
+	<td>Sűrűség</td>
+	<td>0,68 g/cm³</td>
+</tr>
+<tr>
+<td colspan = „2” >Zsugorodás</td></tr>
+<tr>
+	<td>Sugárirányban</td>
+	<td>	5,8 %</td>
+</tr>
+<tr>
+	<td>Húrirányban</td>
+	<td>11,8 %</td>
+</tr>
+<tr><td colspan = „2” >Keménység</td></tr>
+<tr>
+	<td>Rostra merőleges</td>
+	<td>34 MPa</td>
+	</tr>
+<tr>
+	<td>Rosttal párhuzamos</td>
+	<td>72 MPa</td></tr>
+<tr>
+	<td >Merevség	</td>
+	<td>14000 MPa</td>
+</tr>
+<tr><td colspan = „2” >Szilárdság</td></tr>
+<tr>
+	<td>Nyomó</td>
+	<td>62 MPa</td></tr>
+<tr>
+	<td>Hajlító</td>
+	<td>123 MPa</td>
+	</tr>
+<tr>
+<td>Nyíró</td>
+<td>8 MPa</td>
+</tr>
+</table>
