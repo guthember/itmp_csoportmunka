@@ -4,6 +4,21 @@
 <title>Tölgy adatai</title>
 </head>
 <body>
+<h1>Tölgy mint élő fa</h1>
+<p>
+A kocsányos tölgy európai (kontinentális) flóraelem. Magyarországon a síkvidéki erdők uralkodó fája. 
+A szélsőséges éghajlat nem árt neki, a kései fagyokra érzékeny. Minden talajtípuson megtalálható,
+ de nagyon tápanyagigényes. A kocsánytalan tölgy szintén európai flóraelem,
+  Magyarországon elsősorban hegy- és dombvidékeken található. Az éghajlati szélsőségeket rosszul tűri,
+ a kocsányos tölgynél kevesebb meleget, több páratartalmat, alacsonyabb talajnedvességet kíván.
+ Mindkét faj magas kort ér el. A nemes tölgyeket az erdőgazdaságokban 80…150 éves korukban termelik ki.
+
+A kocsányos és a kocsánytalan tölgy magassága egyaránt 30…40 m körüli, törzsátmérője 1…2 m-es is lehet.
+ Hatalmas, erős, szabálytalan koronájú fák. A kocsányos tölgy kérge először ezüstszürke, 
+ idővel sötétebb szürke lesz, hosszanti repedésekkel. Idős korban a tőnél a kéreg mélyen repedezett, kemény,
+  feketés-szürkés vagy barna színű. Kéregvastagsága 1…6 cm. A kocsánytalan tölgy kérge idős korban
+   kevésbé durva és kevésbé vastag, mint a kocsányos tölgyé.
+</p>
 <h1>Tölgy (faanyag)</h1>
 <p>A kocsányos és a kocsánytalan tölgy anyaga szemre nagyon hasonlít egymásra,
  de a kocsánytalan tölgy átlagban kissé sűrűbb, keményebb, durvább rostú.

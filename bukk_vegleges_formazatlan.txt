@@ -4,6 +4,15 @@
 <title>Bükk adatai</title>
 </head>
 <body>
+<h1>Bükk mint élő fa</h1>
+<p>
+Közép-európai flóraelem. Hegyvidéki fafaj.
+ Termőhelyigényes, szélsőségeket nem tűrő, a kései fagyokra érzékeny.
+  Páradús levegőt igényel, mészkedvelő.
+20–40 m magas egyenes, hengeres törzsű fa. Kérge háncsrosttól mentes,
+ sima, szürkészöldes színű. Kéregvastagsága 1–2 cm.
+</p>
+
 <h1>Bükk (faanyag)</h1>
 <p>Halványsárgás, világosszürkés, rózsaszínes tónusú anyag. A szíjács és a gesztje nehezen különíthető el.
  Az időnként előforduló vörösesbarna algeszt a fa betegségének tünete. Kis méretű, szórtan elhelyezkedő 

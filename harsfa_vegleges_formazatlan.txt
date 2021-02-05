@@ -4,6 +4,16 @@
 <title>Hársfa adatai</title>
 </head>
 <body>
+<h1>Hárs mint élő fa</h1>
+<p> A kislevelű hárs európai flóraelem. Domb- és hegyvidéki faj.
+ Az éghajlati szélsőségeket a nagylevelű hársnál jobban elviseli, 
+ annál igénytelenebb másod- vagy elsőrendű fa. Mély, üde talajon fejlődik legjobban,
+  de gyengébb talajokhoz is képes alkalmazkodni. A késői fagyokra nem érzékeny.
+   A talaj savanyúságára nem kényes. Árnytűrő.
+
+Magassága 25–40 m körüli. Kérge fiatalon sima és zöldesbarna, néhol paraszemölcsökkel;
+ idősebb korban hálószerűen repedezett. Kéregvastagsága 1–3 cm. </p>
+
 <h1>Hársfa (faanyag)</h1>
 <p>Szíjácsa és gesztje egyformán gyengén vöröses fehér színű. 
 Az évgyűrűhatárok fehér-sárga színű vonalakként jelentkeznek. Szórt likacsú fa, edényei aprók,
