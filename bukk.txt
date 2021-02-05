@@ -1,22 +1,18 @@
-<h2>Szárítás</h2>
-<p>Lassan és nagyon óvatosan kell szárítani, repedésre, vetemedésre hajlamos.</p>
-
-<h2>Megmunkálás</h2>
-<p>Minden szerszámmal jól és könnyen megmunkálható, jól késelhető, hámozható. Jól gőzölhető, ettől színe vörösesbarnára változik, használat közbeni stabilitása javul. Gőzölve jól hajlítható.</p>
-
-<h2>Rögzítés</h2>
-<p>Jól szegelhető, csavarozható, de repedékenysége miatt előfúrás ajánlatos. Jól ragasztható.</p>
-
-<h2>Felületkezelés</h2>
-<p>Jól pácolható, előkezelés nélkül is jól lakkozható. Fény hatására idővel sárgul.</p>
-<h2>Tartósság</h2>
-<p>Hajlamos a fülledésre, nem időjárásálló, nem tartós, rovarok is gyakran károsítják.
-Nagyon sokoldalúan használható faanyag. Bútor-, épület- és szerkezeti fának, bánya- és talpfának, farost- és rétegelt lemez készítésére, papír- és faszéngyártásra alkalmas. Kiváló tűzifa.</p>
-
-
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bükk adatai</title>
+</head>
+<body>
+<h1>Bükk (faanyag)</h1>
+<p>Halványsárgás, világosszürkés, rózsaszínes tónusú anyag. A szíjács és a gesztje nehezen különíthető el.
+ Az időnként előforduló vörösesbarna algeszt a fa betegségének tünete. Kis méretű, szórtan elhelyezkedő 
+ pórusai szemmel nemigen láthatók, az évgyűrűk kései pásztájában ritkábbak, ezért itt a fa sötétebb színű.
+  Bélsugarai szélesek, 1 mm körüliek, a sugármetszeten tükröket alkotnak, a húrmetszeten vöröses kis orsókként 
+  látszanak</p>
 
 <table>
+<caption> Fizikai tulajdonságok </caption>
 <tr>
 	<td>Rönkhossz</td>
 	<td>10…20 m</td>
@@ -27,10 +23,10 @@ Nagyon sokoldalúan használható faanyag. Bútor-, épület- és szerkezeti fá
 </tr>
 <tr>
 	<td>Sűrűség</td>
-	<td>0,68 g/cm³</td>
+	<td>0,68 g/cm <sup> 3 </sup></td>
 </tr>
 <tr>
-<td colspan = „2” >Zsugorodás</td></tr>
+<td colspan="2">Zsugorodás</td></tr>
 <tr>
 	<td>Sugárirányban</td>
 	<td>	5,8 %</td>
@@ -39,7 +35,7 @@ Nagyon sokoldalúan használható faanyag. Bútor-, épület- és szerkezeti fá
 	<td>Húrirányban</td>
 	<td>11,8 %</td>
 </tr>
-<tr><td colspan = „2” >Keménység</td></tr>
+<tr> <td colspan="2"> Keménység </td> </tr>
 <tr>
 	<td>Rostra merőleges</td>
 	<td>34 MPa</td>
@@ -51,7 +47,7 @@ Nagyon sokoldalúan használható faanyag. Bútor-, épület- és szerkezeti fá
 	<td >Merevség	</td>
 	<td>14000 MPa</td>
 </tr>
-<tr><td colspan = „2” >Szilárdság</td></tr>
+<tr><td colspan="2">Szilárdság</td></tr>
 <tr>
 	<td>Nyomó</td>
 	<td>62 MPa</td></tr>
@@ -64,3 +60,5 @@ Nagyon sokoldalúan használható faanyag. Bútor-, épület- és szerkezeti fá
 <td>8 MPa</td>
 </tr>
 </table>
+</body>
+</html>

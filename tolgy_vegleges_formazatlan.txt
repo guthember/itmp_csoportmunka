@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tölgy adatai</title>
+</head>
+<body>
+<h1>Tölgy (faanyag)</h1>
+<p>A kocsányos és a kocsánytalan tölgy anyaga szemre nagyon hasonlít egymásra,
+ de a kocsánytalan tölgy átlagban kissé sűrűbb, keményebb, durvább rostú.
+  A szíjács keskeny, sárgásfehér, a gesztje sárgásbarna. Gyűrűs likacsú fa.
+   Nagy, kerek edényei jól láthatóak, a keresztmetszeten a korai pásztában az évgyűrűhatár mentén 
+   egy (kocsányos tölgy) vagy több (kocsánytalan tölgy) sorban helyezkednek el.
+    A késői pászta felé gyors átmenettel szűkülnek, és sugárirányú sorokba rendeződnek,
+	 a kocsánytalan tölgynél néhol villásan elágazó mintázatot alkotnak.
+	  Különböző vastagságú bélsugarai vannak, ezek sárgás színűek, a nagyobbak elég feltűnőek.
+	   A bélsugarak a húrmetszeten sötét, akár 6 cm-es vékony hosszanti vonalak,
+ a sugármetszeten szabálytalan alakú, különböző méretű fényes, barnás csíkok formájában tűnnek fel.</p>
+
+<table>
+<caption> Fizikai tulajdonságok </caption>
+<tr>
+	<td>Rönkhossz</td>
+	<td>15...25 m</td>
+</tr>
+<tr>
+	<td>Rönkátmérő</td>
+	<td>	1,0…2,5 m</td>
+</tr>
+<tr>
+	<td>Sűrűség</td>
+	<td>0,64 g/cm<sup>3 </sup></td>
+</tr>
+<tr>
+<td colspan="2">Zsugorodás</td></tr>
+<tr>
+	<td>Sugárirányban</td>
+	<td>	4,3 %</td>
+</tr>
+<tr>
+	<td>Húrirányban</td>
+	<td>8,9 %</td>
+</tr>
+<tr> <td colspan="2"> Keménység </td> </tr>
+<tr>
+	<td>Rostra merőleges</td>
+	<td>24,4 MPa</td>
+	</tr>
+<tr>
+	<td>Rosttal párhuzamos</td>
+	<td>47,1 MPa</td></tr>
+<tr>
+	<td >Merevség	</td>
+	<td>13 200 MPa</td>
+</tr>
+<tr><td colspan="2">Szilárdság</td></tr>
+<tr>
+	<td>Nyomó</td>
+	<td>61 MPa</td></tr>
+<tr>
+	<td>Hajlító</td>
+	<td>88 MPa</td>
+	</tr>
+<tr>
+<td>Nyíró</td>
+<td>11 MPa</td>
+</tr>
+</body>
+</html>

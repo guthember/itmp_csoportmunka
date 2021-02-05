@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hársfa adatai</title>
+</head>
+<body>
+<h1>Hársfa (faanyag)</h1>
+<p>Szíjácsa és gesztje egyformán gyengén vöröses fehér színű. 
+Az évgyűrűhatárok fehér-sárga színű vonalakként jelentkeznek. Szórt likacsú fa, edényei aprók,
+ szemmel nem láthatóak. 
+Bélsugarai a keresztmetszeten csak nagyítóval látszanak.</p>
+
+<table>
+<caption> Fizikai tulajdonságok </caption>
+<tr>
+	<td>Rönkhossz</td>
+	<td>10…20 m</td>
+</tr>
+<tr>
+	<td>Rönkátmérő</td>
+	<td>	0,6…1,2 m</td>
+</tr>
+<tr>
+	<td>Sűrűség</td>
+	<td>0,49 g/cm<sup>3 </sup></td>
+</tr>
+<tr>
+<td colspan="2">Zsugorodás</td></tr>
+<tr>
+	<td>Sugárirányban</td>
+	<td>	5,5 %</td>
+</tr>
+<tr>
+	<td>Húrirányban</td>
+	<td>9,1 %</td>
+</tr>
+<tr> <td colspan="2"> Keménység </td> </tr>
+<tr>
+	<td>Rostra merőleges</td>
+	<td>16 MPa</td>
+	</tr>
+<tr>
+	<td>Rosttal párhuzamos</td>
+	<td>38 MPa</td></tr>
+<tr>
+	<td >Merevség	</td>
+	<td>7 400 MPa</td>
+</tr>
+<tr><td colspan="2">Szilárdság</td></tr>
+<tr>
+	<td>Nyomó</td>
+	<td>52 MPa</td></tr>
+<tr>
+	<td>Hajlító</td>
+	<td>10,6 MPa</td>
+	</tr>
+<tr>
+<td>Nyíró</td>
+<td>4,5 MPa</td>
+</tr>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mahagóni adatai</title>
+</head>
+<body>
+<h1>Mahagóni (faanyag)</h1>
+<p>A szíjács fehéres, szürkés, 2,5 – 5 cm vastag, nem használják,
+ a gesztje színe sárgástól vörösesbarnáig terjed, utánsötétedik. 
+ A textúra a váltakozóan csavarodó növés miatt a megvilágítástól függően fénycsíkokat mutat,
+  aranyszínűen fénylik.
+ A pórusok szabad szemmel jól, a bélsugarak kevésbé láthatók.</p>
+
+<table>
+<caption> Fizikai tulajdonságok </caption>
+<tr>
+	<td>Rönkhossz</td>
+	<td>20…30 m</td>
+</tr>
+<tr>
+	<td>Rönkátmérő</td>
+	<td>	0,6…1,5 m</td>
+</tr>
+<tr>
+	<td>Sűrűség</td>
+	<td>0,52 g/cm<sup>3 </sup></td>
+</tr>
+<tr>
+<td colspan="2">Zsugorodás</td></tr>
+<tr>
+	<td>Sugárirányban</td>
+	<td>	3,3 %</td>
+</tr>
+<tr>
+	<td>Húrirányban</td>
+	<td>4,6 %</td>
+</tr>
+<tr> <td colspan="2"> Keménység </td> </tr>
+<tr>
+	<td>Rostra merőleges</td>
+	<td>18 MPa</td>
+	</tr>
+<tr>
+	<td>Rosttal párhuzamos</td>
+	<td>36 MPa</td></tr>
+<tr>
+	<td >Merevség	</td>
+	<td>8,8 MPa</td>
+</tr>
+<tr><td colspan="2">Szilárdság</td></tr>
+<tr>
+	<td>Nyomó</td>
+	<td>44 MPa</td></tr>
+<tr>
+	<td>Hajlító</td>
+	<td>83 MPa</td>
+	</tr>
+<tr>
+<td>Nyíró</td>
+<td>189,8 MPa</td>
+</tr>
+</body>
+</html>
