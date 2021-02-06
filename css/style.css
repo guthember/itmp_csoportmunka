@@ -5,14 +5,22 @@ body {
 header {
     height: 100px;
     background: gray;
+    color:brown;
+    text-align: center;
 }
 
+img {
+    height: 100px;
+    float:right;
+}
+
+
 footer {
-    height: 120px;
+    height: 100px;
     background: gray;
 }
 
-h3 {
+h4 {
     color:brown;
     margin: auto;
 }
