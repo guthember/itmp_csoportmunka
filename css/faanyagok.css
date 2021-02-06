@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url('../images/faanyagok/faanyagok2.jpg');
+    color: white;
+}
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .lead {
+      color: black;
+  }
