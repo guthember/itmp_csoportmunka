@@ -1,40 +1,61 @@
 <!DOCTYPE html>
 <html lang="hu">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" type="text/css">
-    <title>DIY Barkácsáruház</title>
+    <title>Főoldal</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="css\style.css">
 </head>
+
 <body>
-    <div id="fejlec">
-        <img src="images\diybb.png" alt="fejlec"><img src="images\diybb_t.png" alt="fejlec">
-    </div>
-    <div id="balmenu">
-        <ul>
-            <li><a href="fooldal.html" target="ifrm"><button>Főoldal</button></a></li>
-            <li><a href="festekek.html" target="ifrm"><button>Festékek</button></a></li>
-            <li><a href="faanyagok.html" target="ifrm"><button>Faanyagok</button></a></li>
-            <li><a href="szerszamkatalogus.html" target="ifrm"><button>Szerszámkatalógus</button></a></li>
-            <li><a href="furok.html" target="ifrm"><button>Fúrók</button></a></li>
-            <li><a href="rolunk.html" target="ifrm"><button>Rólunk</button></a></li>
-        </ul>
-    </div>
-    <div id="tartalom">
-        <iframe src="fooldal.html" frameborder="0" name="ifrm" id="keret">
+    <header class=" container my-5">
         
-        </iframe>
-    </div>
-    <div id="lablec">
+    </header>
+    
+    <main class="container">
+
+        <div class="row my-5    ">
+
+           <div class="col-3 menubar">
+                <nav class="nav flex-column">
+                    <a class="nav-link active" href="fooldal.html" target="ifrm">Főoldal</a>
+                    <a class="nav-link" href="festekek.html" target="ifrm">Festékek</a>
+                    <a class="nav-link" href="faanyagok.html" target="ifrm">Faanyagok</a>
+                    <a class="nav-link" href="szerszamkatalogus.html" target="ifrm">Faanyagok</a>
+                    <a class="nav-link" href="furok.html" target="ifrm">Faanyagok</a>
+                    <a class="nav-link" href="rolunk.html" target="ifrm">Rólunk</a>
+                    <a class="nav-link disabled" href="#">Blog</a>
+                </nav>
+           </div>
+
+           <div class="col-9 tartalom">
+                <iframe class="responsive-iframe" src="fooldal.html" name="ifrm">
+                </iframe>
+           </div>
+
+        </div>
+
+    </main>
+    
+    <footer class="container" id="lablec">
         <div>
-            <p>Nyitvatartás:</p> 
+            <h3>Nyitvatartás:</h3> 
             <p>Hétfő - Péntek: 7:30 - 20:30</p> 
             <p>Szombat: 8:00 - 20:00</p> 
             <p>Vasárnap: Zárva</p> 
         </div>
-        <div>
-            <p>Elérhetőségek: </p>
+        <div id="kapcsolat">
+            <h3>Elérhetőségek: </h3>
+            <p>Levél: DIY Barkácsáruház</p>
+            <p>E-mail: info@barkacsaruhaz.hu</p>
+            <p>Telefon: +36-1-555-55-55</p>
         </div>
-    </div>
+    
+    </footer>
+
 </body>
+
 </html>
