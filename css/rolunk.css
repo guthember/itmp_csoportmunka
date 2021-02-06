@@ -1,2 +1,29 @@
-h2 { color: FF0000;}
-.csapattag {color: 00FF00;}
+h2 { 
+    color: #FF0000;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+
+.csapattag {
+    clear:both;
+    margin-top: 20px;
+}
+
+.nev {
+    text-align: center;
+
+}
+
+.csapattag img {
+    float: right;
+}
+
+.csapat img {
+    float: left;
+}
+
