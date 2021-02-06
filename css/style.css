@@ -14,11 +14,13 @@ footer {
 
 h3 {
     color:brown;
+    margin: auto;
 }
 
 #lablec div {
     width: 50%;
     float: left;
+    text-align: center;
 }
 
 #lablec p {
