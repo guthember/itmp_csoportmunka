@@ -1,0 +1,44 @@
+body {
+    background: lightgray;
+}
+
+header {
+    height: 100px;
+    background: gray;
+}
+
+footer {
+    height: 120px;
+    background: gray;
+}
+
+h3 {
+    color:brown;
+}
+
+#lablec div {
+    width: 50%;
+    float: left;
+}
+
+#lablec p {
+    margin: 0px;
+}
+
+.menubar {
+    background: burlywood;
+}
+
+.tartalom {
+    background: chocolate;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
