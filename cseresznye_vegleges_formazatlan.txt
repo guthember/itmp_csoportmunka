@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cseresznye adatai</title>
+</head>
+<body>
+<h1>Cseresznye mint élő fa</h1>
+<p>
+Dél-eurázsiai (-mediterrán) flóraelem, Síksági-hegyvidéki fa.
+
+Magassága 20…26 m. Kérgének külső része fényes bőrpara, később keresztirányú szalagokban hasad le,
+ idősebb korban a tőnél hosszában repedezett, fekete, durva felületű. Kéregvastagsága 1…3 cm.
+</p>
+<h1>Cseresznye (faanyag)</h1>
+<p>Szíjácska keskeny, sárgás vagy halvány vöröses, gesztje világos vörösesbarna, 
+barnás-zöldes csonkoltsággal. A csíkok a korai pásztában jelentkeznek. 
+Az edények a korai pásztában sűrűek, likacsgyűrűt alkotnak, de a késői pásztában szórtan helyezkednek el.
+ Bélsugarai kicsik, szabad szemmel csak a sugármetszeten láthatók vékony csíkok formájában.</p>
+
+<table>
+<caption> Fizikai tulajdonságok </caption>
+<tr>
+	<td>Rönkhossz</td>
+	<td>6…10 m</td>
+</tr>
+<tr>
+	<td>Rönkátmérő</td>
+	<td>	0,6…1,0 m</td>
+</tr>
+<tr>
+	<td>Sűrűség</td>
+	<td>0,57 g/cm<sup>3 </sup></td>
+</tr>
+<tr>
+<td colspan="2">Zsugorodás</td></tr>
+<tr>
+	<td>Sugárirányban</td>
+	<td>	5,0 %</td>
+</tr>
+<tr>
+	<td>Húrirányban</td>
+	<td>8,7 %</td>
+</tr>
+<tr> <td colspan="2"> Keménység </td> </tr>
+<tr>
+	<td>Rostra merőleges</td>
+	<td>31 MPa</td>
+	</tr>
+<tr>
+	<td>Rosttal párhuzamos</td>
+	<td>59 MPa</td></tr>
+<tr>
+	<td >Merevség	</td>
+	<td>11 100 MPa</td>
+</tr>
+<tr><td colspan="2">Szilárdság</td></tr>
+<tr>
+	<td>Nyomó</td>
+	<td>49 MPa</td></tr>
+<tr>
+	<td>Hajlító</td>
+	<td>95 MPa</td>
+	</tr>
+<tr>
+<td>Nyíró</td>
+<td>15 MPa</td>
+</tr>
+</body>
+</html>
