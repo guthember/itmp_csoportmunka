@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dió adatai</title>
+</head>
+<body>
+<h1>Dió mint élő fa</h1>
+<p>
+Balkáni–elő-ázsiai flóraelem. Hegyvidéki fafaj, a balkáni cseres tölgyesek jellemző fája.
+ Magyarországon vadon ritka, általában ültetett fa, néha elvadul, sok kultúrváltozata van.
+  Enyhe éghajlaton, tápanyagban gazdag, mély vályogtalajokon jól fejlődik, gyorsan nő, magas kort ér meg.
+
+Magassága 20…30 m. Kérge kemény, világosszürke, repedezett, a kéregcserepek oldala fekete. 
+Kéregvastagsága 1…2 cm.
+</p>
+<h1>Dió (faanyag)</h1>
+<p>A szíjács világosszürke, széles, igényes célra nem használatos, a gesztsötétszürke,
+ szabálytalanul futó sötét csíkokkal, gőzölés után szép sötétbarna színűvé válik. 
+ Edényei szemmel láthatóak, nagyok, ritkák, szórt elrendezésűek.
+ Bélsugarai szabad szemmel alig láthatók, a sugármetszeten kis tükrökként jelentkeznek.</p>
+
+<table>
+<caption> Fizikai tulajdonságok </caption>
+<tr>
+	<td>Rönkhossz</td>
+	<td>8…12 m</td>
+</tr>
+<tr>
+	<td>Rönkátmérő</td>
+	<td>	1,0…2,5 m</td>
+</tr>
+<tr>
+	<td>Sűrűség</td>
+	<td>0,64 g/cm<sup>3 </sup></td>
+</tr>
+<tr>
+<td colspan="2">Zsugorodás</td></tr>
+<tr>
+	<td>Sugárirányban</td>
+	<td>	5,4 %</td>
+</tr>
+<tr>
+	<td>Húrirányban</td>
+	<td>7,5 %</td>
+</tr>
+<tr> <td colspan="2"> Keménység </td> </tr>
+<tr>
+	<td>Rostra merőleges</td>
+	<td>35 MPa</td>
+	</tr>
+<tr>
+	<td>Rosttal párhuzamos</td>
+	<td>70 MPa</td></tr>
+<tr>
+	<td >Merevség	</td>
+	<td>12 700 MPa</td>
+</tr>
+<tr><td colspan="2">Szilárdság</td></tr>
+<tr>
+	<td>Nyomó</td>
+	<td>72 MPa</td></tr>
+<tr>
+	<td>Hajlító</td>
+	<td>105 MPa</td>
+	</tr>
+<tr>
+<td>Nyíró</td>
+<td>18 MPa</td>
+</tr>
+</body>
+</html>
