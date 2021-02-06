@@ -1,0 +1,20 @@
+body {
+    background: lightgray;
+}
+
+header {
+    height: 100px;
+    background: gray;
+}
+
+footer {
+    height: 50px;
+    background: gray;
+}
+.menubar {
+    background: burlywood;
+}
+
+.tartalom {
+    background: chocolate;
+}
