@@ -1,0 +1,33 @@
+#fejlec {
+    color: #0000FF;
+}
+
+#balmenu {
+    background-color: turquoise;
+}
+
+#tartalom {
+    background-color: yellow;
+}
+
+#lablec {
+    clear: both;
+}
+
+#balmenu li {
+    height: 60px;
+    margin: 10px 5px;
+    border: 6px outset #c96; 
+    padding: 10px 2px; /*A listaelemek nem érnek ki a tartalmazó doboz széléig*/
+    background-image: url(../images/menu-gomb.jpg); /*A listaelemek háttere*/
+    list-style: none; /*Nincs listajel.*/  
+  }
+
+#balmenu a{
+  display: block; /*Nem csak a szöveg jelenti a hivatkozást, hanem egy szöveg magasságú sáv*/
+  color: #ffc; /*A hivatkozás szövegének színe*/
+  text-align: center; /*A hivatkozás szöveg középre igazítva*/
+  text-decoration: none; /*Nincs aláhúzva a hiavtkozás szövege*/ 
+  font-weight: bold;
+}
+  
