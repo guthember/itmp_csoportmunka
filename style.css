@@ -1,46 +1,20 @@
-#fejlec {
-    width: 1000px;
-    margin: 0px auto 0px auto;
-    
+body {
+    background: lightgray;
 }
 
-img {
-    width: 500px;
-    margin: 0px auto 0px auto;
+header {
+    height: 100px;
+    background: gray;
 }
 
-#balmenu {
-    width: 200px;
-    float: left;
-}
-
-#tartalom {
-    width: auto;
-    float: left;
-}
-
-#balmenu li {
-    list-style: none;
-}
-
-#balmenu button {
-    width: 150px;
+footer {
     height: 50px;
-    text-align: left;
-    padding: auto auto auto 20px;
-    margin: 10px 0px; 
+    background: gray;
+}
+.menubar {
+    background: burlywood;
 }
 
-#keret {
-    width: 1000px;
-    height: 400px;
-}
-
-#lablec div {
-    width: 500px;
-    float: left;
-}
-
-#lablec p {
-    margin: 0px;
+.tartalom {
+    background: chocolate;
 }
